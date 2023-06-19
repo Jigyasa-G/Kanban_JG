@@ -1,3 +1,8 @@
+My attempt at the task:
+ Deployed link : https://kanbanjg.netlify.app/
+
+Task : 
+
 In this project, you will clone a Figma design in React. The deployed code should exactly replicate the original Figma design, including fonts, icons, colors, structure, layout, and spacing. 
 
 This is the Figma: https://www.figma.com/file/Paz2INbKkXCSR0Tqb9cmPF/Mercor-Project 
@@ -13,4 +18,6 @@ Requirements:
 4. Deploy your React application to a hosting platform like Vercel, Netlify, or GitHub pages. 
 
 5. Test the deployed application on multiple devices to verify its functionality and responsiveness. 
+
+P.S. If there are any suggestions on this please let me know at : jigyasatata@gmail.com 
 
